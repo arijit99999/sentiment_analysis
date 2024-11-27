@@ -1,0 +1,13 @@
+tensorflow
+flask
+optuna
+ipykernel
+pandas
+numpy==1.21.6
+textblob
+nltk
+spacy
+emoji
+gensim==4.3.1
+scipy==1.9.3
+scikit-learn
